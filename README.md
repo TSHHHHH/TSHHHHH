@@ -1,4 +1,4 @@
-![Metrics](https://metrics.lecoq.io/TSHHHHH?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&config.timezone=Asia%2FSingapore)
+![Metrics](/github-metrics.svg)
 
 ### Languages
 ![C++](https://img.shields.io/badge/-C%2B%2B-white?style=flat&logo=cplusplus&logoColor=white&labelColor=grey&color=%2300599C)
